@@ -1,0 +1,9 @@
+Exerize 1 :- Write a program that takes two numbers as input and prints the greater of the two numbers.
+
+Exerize 2 :- Write a program that takes a string as input and prints the number of words in the string.
+
+Exerize 3 :- Write a program that takes a string as input and prints the number of characters in the string.
+
+Exerize 4 :- Write A program that check the number its divisible by 7 or not.
+
+Exerize 5 :- Write a program that takes a number as input and prints whether it is odd or even.
